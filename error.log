@@ -1,0 +1,8 @@
+[CRITICAL:2024-09-05 17:46:00,052] - {C:\Users\kevin.mensah\Desktop\python-task-manager\app\database\connection.py:31} - Database Connection Error : connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres1"
+
+[CRITICAL:2024-09-05 17:46:00,052] - {C:\Users\kevin.mensah\Desktop\python-task-manager\app\task_controller\task.py:15} - Failed to connect to the database.
+[CRITICAL:2024-09-05 17:46:00,052] - {C:\Users\kevin.mensah\Desktop\python-task-manager\app\task_controller\task.py:63} - An error occurred: 'NoneType' object has no attribute 'cursor'
+[CRITICAL:2024-09-06 08:37:29,094] - {C:\Users\kevin.mensah\Desktop\python-task-manager\app\database\connection.py:31} - Database Connection Error : connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres1"
+
+[CRITICAL:2024-09-06 08:37:29,100] - {C:\Users\kevin.mensah\Desktop\python-task-manager\app\task_controller\task.py:15} - Failed to connect to the database.
+[CRITICAL:2024-09-06 08:37:29,100] - {C:\Users\kevin.mensah\Desktop\python-task-manager\app\task_controller\task.py:63} - An error occurred: 'NoneType' object has no attribute 'cursor'
